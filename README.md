@@ -1,2 +1,4 @@
 # hello_world
-Just example of repository
+
+Hi everybody!
+My name is Ann, this is my first experience in GitHub :)
